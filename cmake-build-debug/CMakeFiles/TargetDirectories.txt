@@ -1,0 +1,3 @@
+/mnt/c/Users/michciu_/Documents/Projects/C++/zad4a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/michciu_/Documents/Projects/C++/zad4a/cmake-build-debug/CMakeFiles/zad4a.dir
+/mnt/c/Users/michciu_/Documents/Projects/C++/zad4a/cmake-build-debug/CMakeFiles/edit_cache.dir
